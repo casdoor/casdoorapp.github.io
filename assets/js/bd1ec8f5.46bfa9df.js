@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcasdoorapp_website=self.webpackChunkcasdoorapp_website||[]).push([[849],{137:a=>{a.exports=JSON.parse('{"label":"Authenticator","permalink":"/blog/tags/authenticator","allTagsPath":"/blog/tags","count":1}')}}]);

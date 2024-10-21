@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcasdoorapp_website=self.webpackChunkcasdoorapp_website||[]).push([[267],{8289:a=>{a.exports=JSON.parse('[{"label":"Casdoor","permalink":"/blog/tags/casdoor","count":1},{"label":"Authenticator","permalink":"/blog/tags/authenticator","count":1},{"label":"Totp","permalink":"/blog/tags/totp","count":1}]')}}]);

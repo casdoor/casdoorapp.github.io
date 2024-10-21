@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcasdoorapp_website=self.webpackChunkcasdoorapp_website||[]).push([[668],{5920:e=>{e.exports=JSON.parse('{"label":"Totp","permalink":"/de/blog/tags/totp","allTagsPath":"/de/blog/tags","count":1}')}}]);
