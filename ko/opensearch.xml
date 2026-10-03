@@ -4,8 +4,8 @@
   <ShortName>Casdoor Authenticator</ShortName>
   <Description>Search Casdoor Authenticator</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://casdoorapp.github.io/ko/img/favicon.png</Image>
-  <Url type="text/html" method="get" template="https://casdoorapp.github.io/ko/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://casdoorapp.github.io/ko/opensearch.xml" />
-  <moz:SearchForm>https://casdoorapp.github.io/ko/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://app.casdoor.ai/ko/img/favicon.png</Image>
+  <Url type="text/html" method="get" template="https://app.casdoor.ai/ko/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://app.casdoor.ai/ko/opensearch.xml" />
+  <moz:SearchForm>https://app.casdoor.ai/ko/</moz:SearchForm>
 </OpenSearchDescription>
